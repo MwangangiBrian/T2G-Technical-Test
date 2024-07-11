@@ -1,4 +1,4 @@
-# T2G-Technical-Test
+# Teach2Give-Technical-Test
 
 ### The Following are the Questions covered with the file name alongside the Question number
 
